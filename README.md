@@ -7,9 +7,3 @@ A lightweight tool to quickly verify the validity of email addresses. Ideal for 
 - **Format Validation:** Checks if the email format is correct (e.g., `user@example.com`).
 - **Domain Validation:** Verifies if the domain exists.
 - **Easy to Use:** Minimal setup for fast email verification.
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/simple-email-verifier.git
